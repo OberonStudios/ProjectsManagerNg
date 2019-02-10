@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": "3",
+      "title": "Project Thre",
+      "details": "This is a sample project",
+      "percentComplete": "90",
+      "approved": "false"
+    },
+    {
+      "id": "3",
+      "title": "Project Three",
+      "details": "This is a sample project",
+      "percentComplete": "90",
+      "approved": "false"
+    },
+    {
+      "id": "QW_W4Rc",
+      "title": "Test",
+      "details": "test",
+      "percentComplete": 47,
+      "approved": true
+    }
+  ]
+}

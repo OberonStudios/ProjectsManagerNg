@@ -1,4 +1,4 @@
-@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+// @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
 html {
   height: 100%;
 }
@@ -360,11 +360,7 @@ mat-toolbar {
   }
 }
 
-html,
-body {
-  height: 100%;
-}
-body {
-  margin: 0;
-  font-family: Roboto, 'Helvetica Neue', sans-serif;
+// Prevent overflow on side nav
+.mat-drawer-inner-container {
+  overflow-x: hidden !important;
 }
