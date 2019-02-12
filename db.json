@@ -1,25 +1,25 @@
 {
   "projects": [
     {
-      "id": "3",
-      "title": "Project Thre",
-      "details": "This is a sample project",
-      "percentComplete": "90",
-      "approved": "false"
-    },
-    {
-      "id": "3",
-      "title": "Project Three",
-      "details": "This is a sample project",
-      "percentComplete": "90",
-      "approved": "false"
-    },
-    {
       "id": "QW_W4Rc",
       "title": "Test",
-      "details": "test",
+      "details": "test2",
+      "percentComplete": 6,
+      "approved": true
+    },
+    {
+      "id": "Q21Rc",
+      "title": "222333",
+      "details": "testaaa",
       "percentComplete": 47,
       "approved": true
+    },
+    {
+      "id": "QW54654Rc",
+      "title": "444",
+      "details": "testyyyklz",
+      "percentComplete": 86,
+      "approved": false
     }
   ]
 }
